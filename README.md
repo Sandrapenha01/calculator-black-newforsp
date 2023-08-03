@@ -60,5 +60,5 @@ Segui as instruções de como criar a calculadora no canal da https://github.com
 
 ---
 
-⌨️ Por [Sandra Penhar](https://github.com/Sandrapenha01)
+⌨️ Por [Sandra Penha](https://github.com/Sandrapenha01)
  
