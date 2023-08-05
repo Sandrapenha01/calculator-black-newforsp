@@ -36,7 +36,7 @@ Fiz esse projeto com o objetivo de aprender mais sobre essas tecnologia e desenv
 
 Segui as instruções de como criar a calculadora no canal da https://github.com/lyssacavalcanti  digitei os códigos no Vscode, escolhi uma fonte que desejava e as cores. 
 
-##👩🏻‍💻 Expert
+## 👩🏻‍💻 Expert
 
 <p>
     <img 
