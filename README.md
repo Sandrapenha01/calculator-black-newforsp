@@ -14,7 +14,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido por mim durante a criação da calculadora, as instruções que segui de como criar a calculadora black, estão no canal da https://github.com/lyssacavalcanti 
 
 
-Fiz esse projeto com o objetivo de aprender mais sobre essas tecnologia e desenvolver minha autoridade técnica.
+Fiz esse projeto com o objetivo de aprender mais sobre essas tecnologias e desenvolver minha autoridade técnica.
 
 <a href="https://www.youtube.com/watch?v=ATd9r0BQ9lI&list=WL&index=3"> 📕Clique aqui para assistir ao vídeo que assisti</a>
 
